@@ -1,23 +1,28 @@
 # Read me
 
-This repository contains the content for the paper "How should we incentivize learning? An optimal feedback mechanism for educational games and online courses", which includes: 
+This repository contains the content for the paper 
+Xu, L., Wirzberger, M., Lieder, F. [How should we incentivize learning? 
+An optimal feedback mechanism for educational games and online courses](https://mindmodeling.org/cogsci2019/papers/0527/index.html) 
+41st Annual Meeting of the Cognitive Science Society, July 2019 (conference), 
+which includes: 
 
-|--- model
+<pre>
+| -- model
 
-|--- experiment
+| -- experiment
 
-|--- data
+| -- data
 
-​	|--- human data
+​|      | -- human data
 
-​	|--- generated data from computational model
+​|      | -- generated data from computational model
 
-|--- paper
+| -- paper
 
-​	|--- paper pdf
+​|      | -- paper pdf
 
-​	|--- images
-
+|      | -- images
+</pre>
 
 
 Python verson 2.7 was used for the implementation of the skill acquisition model
@@ -28,4 +33,5 @@ Psiturk Server is needed to run the experiment.
 
 ​	
 
+ 
  
