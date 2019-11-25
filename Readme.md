@@ -1,4 +1,4 @@
-# Delibrate practice with pseudo rewards
+# Deliberate practice with pseudo rewards (DPPR)
 
 This repository contains the content for the paper 
 Xu, L., Wirzberger, M., Lieder, F. [How should we incentivize learning? 
