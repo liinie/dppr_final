@@ -1,4 +1,4 @@
-# Read me
+# Delibrate practice with pseudo rewards
 
 This repository contains the content for the paper 
 Xu, L., Wirzberger, M., Lieder, F. [How should we incentivize learning? 
